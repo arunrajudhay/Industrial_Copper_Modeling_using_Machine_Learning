@@ -48,6 +48,19 @@ Install the following packages to run the project :
 ## Learning outcomes of this project:
 1. Data Preprocessing - Data Understanding, Handling Null Values, Encoding and Data Type Conversion.
 
-2. Exploratory Data Analysis (EDA) - Skewness & Feature Scaling, Outliers visualization and Handling, Wrong Date Handling, Feature Improvement.
+2. Exploratory Data Analysis (EDA) - Skewness and Feature Scaling, Outliers visualization and Handling, Wrong Date Handling, Feature Improvement.
 
-3. 
+3. Classification - Success and Failure Classification, Algorithm Assessment, Algorithm Selection, Hyperparameter Tuning with GridSearchCV and Cross-Validation, Model Accuracy and Metrics.
+
+4. Regression - Algorithm Assessment, Algorithm Selection, Hyperparameter Tuning with GridSearchCV and Cross-Validation, Model Accuracy and Metrics.
+
+## Contribution:
+Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
+
+## Contact:
+
+Email : [ruarunraj2013@gmail.com](mailto:ruarunraj2013@gmail.com)
+
+Linkedin : https://www.linkedin.com/in/arunraj-r-u-27722a146
+
+Thanks for showing interest in this repository !
