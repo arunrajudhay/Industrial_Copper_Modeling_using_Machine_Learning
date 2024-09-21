@@ -45,3 +45,9 @@ Install the following packages to run the project :
 
 5. Machine Learning Classification: Apply different machine learning classification algorithms to predict the status (won or lost) of copper transactions. Split the dataset into training and testing sets, train the models, and evaluate their performance using metrics such as accuracy, precision, and recall.
 
+## Learning outcomes of this project:
+1. Data Preprocessing - Data Understanding, Handling Null Values, Encoding and Data Type Conversion.
+
+2. Exploratory Data Analysis (EDA) - Skewness & Feature Scaling, Outliers visualization and Handling, Wrong Date Handling, Feature Improvement.
+
+3. 
